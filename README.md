@@ -24,6 +24,6 @@ Built using HTML, CSS, and JavaScript, this project transforms clicks into bloss
 
 **Pallavi Kandikanti**  
 🌐 [GitHub Profile](https://github.com/Pallavikandikanti846)  
-📧 pallavikandikanti846@gmail.com  
+
 
 Passionate about front-end development, visual storytelling through code, and creating simple but beautiful user experiences.
